@@ -136,8 +136,8 @@ AI-SCHOLARSHIP-SYSTEM/
 
 # 🌐 Live Demo
 
-**Render:**  
-https://ai-scholarship-systems-1r6d.onrender.com
+**Render:** 
+https://ai-scholarship-recommented.onrender.com/
 
 ---
 
