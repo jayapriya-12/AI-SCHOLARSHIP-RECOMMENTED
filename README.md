@@ -151,4 +151,3 @@ VSB Engineering College, Karur
 
 Academic Year: **2026–2027**
 
-Project Guide: **Sugashini**
