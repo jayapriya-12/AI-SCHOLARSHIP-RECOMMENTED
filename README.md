@@ -140,8 +140,10 @@ AI-SCHOLARSHIP-SYSTEM/
 https://ai-scholarship-recommented.onrender.com/
 
 ---
-#prototype
+
+# 🔗 prototype
 https://drive.google.com/file/d/1Wzz3vF93aXflDiQQY_Jo-jjEFdPWR75c/view?usp=drivesdk
+---
 
 # 👩‍💻 Developed By
 
